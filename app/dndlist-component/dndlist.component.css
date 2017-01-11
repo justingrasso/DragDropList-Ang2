@@ -1,0 +1,8 @@
+ul{
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+    display: flex;
+    flex-direction: column; list-style: none;
+}
